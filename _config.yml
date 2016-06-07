@@ -1,0 +1,28 @@
+name: New York Auto Accident Lawyer
+favicon: null
+layout_spectrum: 0.01210927264764905
+typography_spectrum: 0.23857958451844752
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4414721759967506
+  lightness: 0.7207922581583261
+  saturation: 0.774368759477511
+  rhythmicContrast: 0.05849143024533987
+purpose: []
